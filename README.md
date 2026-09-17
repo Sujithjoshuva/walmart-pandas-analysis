@@ -86,11 +86,15 @@ The project explores questions such as:
 
 ---
 
-## Project Structure
-
-```text
-walmart-pandas-analysis/
-│
-├── Walmart_Sales_Analysis_Lesson_1_Data_Understanding.ipynb
-├── Walmart_Sales_Analysis_Lesson_2_Store_Analysis.ipynb
-└── README.md
+### Lesson 3 — Department Analysis
+- Analyzed total sales by department
+- Analyzed average weekly sales by department
+- Examined department sales variability
+- Identified high-sales and relatively stable departments
+- Calculated coefficient of variation (CV)
+- Analyzed negative sales records
+- Examined department sales by year
+- Compared department performance across stores
+- Identified the top department within each store
+- Analyzed department dominance across stores
+- Examined department sales changes between years
