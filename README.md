@@ -98,3 +98,41 @@ The project explores questions such as:
 - Identified the top department within each store
 - Analyzed department dominance across stores
 - Examined department sales changes between years
+
+---
+
+## Lesson 4 — Time-Based Sales Analysis
+
+### Analysis Performed
+
+- Compared total sales across years
+- Examined year-over-year sales changes
+- Analyzed monthly sales performance and average weekly sales by month
+- Compared monthly sales patterns across years
+- Identified the highest- and lowest-performing months by year
+- Analyzed weekly sales patterns
+- Identified the highest and lowest individual weekly sales records
+- Compared holiday and non-holiday sales, using both total and average weekly sales
+- Examined store sales trends across years and changes between 2010 and 2012
+- Examined department sales trends across years
+- Identified departments with the largest sales increases and decreases
+- Identified departments with consistent year-over-year sales growth
+
+### Key Insights
+
+- **2011** recorded the highest total sales among the three years analyzed; total sales were lower in 2012 than in 2011.
+- **July** had the highest combined monthly sales, while **January** had the lowest. December recorded the highest average weekly sales by month, and January the lowest.
+- The dataset's weekly records fall on **Friday**, so a comparison across weekdays is not possible.
+- The highest individual weekly sales record was **693,099.36** at Store 10, Department 72, on November 26, 2010, a holiday week. The lowest was **-4,988.94** at Store 28, Department 6, on October 8, 2010.
+- Non-holiday weeks had higher total sales, while holiday weeks had higher average weekly sales in each year analyzed.
+- Many stores recorded higher total sales in 2011 than in 2010, followed by lower sales in 2012. Store 38 had the largest increase between 2010 and 2012, while Store 14 had the largest decline.
+- Department 92 recorded the highest total department sales in each of the three years shown.
+- Department 87 had the largest sales increase between 2010 and 2012, while Department 72 had the largest decrease.
+- Department 48 was the only department returned by the consistent-growth filter, with sales increasing in both 2010–2011 and 2011–2012.
+
+### Notes
+
+- Total sales and average weekly sales answer different questions; holiday comparisons should consider both measures.
+- Negative weekly sales values and unusually small department totals may require further investigation.
+- Lesson 4 is currently documented through Question 16. The next planned analysis is year-over-year sales change by department.
+
