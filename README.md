@@ -6,6 +6,23 @@ This project analyzes Walmart weekly sales data using Python and Pandas to ident
 
 The project is being developed step by step while learning Pandas and applying each concept to a real-world sales dataset.
 
+
+## Business Problem
+
+Retail businesses need to understand how sales performance varies across stores, departments, and time periods. Differences in sales volume, consistency, holiday performance, and year-over-year trends can make it difficult to identify where performance is strong and where further investigation is needed.
+
+This project uses Walmart weekly sales data to explore store-level and department-level performance, examine changes over time, identify sales patterns, and flag unusual or negative sales records. The analysis is intended to support data-informed questions and follow-up investigation; the available fields do not, by themselves, explain the causes behind sales changes.
+
+## Recommendations
+
+- **Investigate declining performance:** Review the reasons behind the observed sales declines at Store 14 and Department 72 between 2010 and 2012. Additional operational, pricing, promotion, and inventory data would be needed to identify possible causes.
+- **Study consistent growth:** Examine Department 48's year-over-year growth to understand whether its performance reflects repeatable practices. Validate the pattern with additional business context before applying it elsewhere.
+- **Plan for seasonal demand:** Consider the observed monthly and holiday-week sales patterns when reviewing future planning assumptions. Use average weekly sales as well as total sales when comparing holiday and non-holiday periods.
+- **Review unusual sales records:** Investigate negative weekly sales and unusually small department totals to determine whether they represent returns, adjustments, data-quality issues, or other valid business activity.
+- **Monitor performance over time:** Continue tracking store and department sales across comparable periods so that changes can be identified and investigated early.
+
+These are analytical recommendations based on the patterns observed so far, not confirmed explanations or guaranteed actions. Further data is required to validate causes and business impact.
+
 ---
 
 ## Dataset
